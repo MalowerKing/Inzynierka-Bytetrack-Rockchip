@@ -62,5 +62,5 @@ CMakeUserPresets.json
 .ninja_deps
 .ninja_log
 
-./lib/thirdparty/*
+lib/thirdparty/
 # End of https://www.toptal.com/developers/gitignore/api/c++,dotenv,cmake
