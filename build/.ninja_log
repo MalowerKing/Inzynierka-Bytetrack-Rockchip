@@ -1,6 +1,0 @@
-# ninja log v7
-1	19	1792505945659097420	CMakeFiles/bytetrack_lib.dir/src/ByteTrack.cpp.o	98ba7024f74b4d0f
-1	19	1792505945659356555	CMakeFiles/bytetrack_lib.dir/src/tracker.cpp.o	38cba8c0c08b6f92
-1	329	1792506106432611230	CMakeFiles/bytetrack_app.dir/apps/main.cpp.o	2a764cbe57be92c1
-19	262	1792505945677876925	lib/libbytetrack_lib.so	1a8aadfa147cef03
-329	700	1792506106761030903	bin/bytetrack_app	1d5c9513d94fd2d0
