@@ -58,4 +58,5 @@ CMakeUserPresets.json
 ### dotenv ###
 .env
 
+./lib/thirdparty/*
 # End of https://www.toptal.com/developers/gitignore/api/c++,dotenv,cmake
