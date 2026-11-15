@@ -3,7 +3,7 @@ project(ByteTrack LANGUAGES C CXX)
 
 # The Rockchip toolchain ships GCC 8.3.0. Raise to 17 if the code needs it
 # (std::filesystem additionally needs stdc++fs with this GCC).
-set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 
